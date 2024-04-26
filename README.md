@@ -1,2 +1,1 @@
-# v6
-Formal Software Design with Alloy
+# Formal Software Design with Alloy
